@@ -9,6 +9,8 @@ Durante a aula, são abordados os seguintes tópicos:
 - Sobrescrita de configurações através de argumentos durante a execução do projeto no terminal.
 - Sobrescrita de configurações através de variáveis de ambiente e injeção destes valores diretamente no projeto.
 
+#### Uma print do projeto só porque eu curto muito o visual do IntelliJ
+![print](https://github.com/osdeving/spring-boot-config/blob/master/print.jpg?raw=true)
 ---
 
 Codado por Willams "osdeving" Sousa
